@@ -8,3 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
+
+# For very big datasets can't pushed on github
+bigdata
